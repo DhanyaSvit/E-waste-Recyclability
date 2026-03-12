@@ -1,6 +1,3 @@
-## Overview
-The model analyzes features of electronic waste items to classify them as **recoverable or non-recoverable**, supporting sustainable recycling and resource recovery.
-
 ## Tech Stack
 - Python  
 - Pandas, NumPy  
