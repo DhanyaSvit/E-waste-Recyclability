@@ -92,3 +92,5 @@ E-WASTE-RECYCLABILITY-MAIN
 - NumPy
 - Scikit-learn
 - Jupyter Notebook
+
+## The folder that stores main project is in the master branch of the repository
